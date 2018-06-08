@@ -1,0 +1,23 @@
+body
+{
+background-color: #86b24f;
+}
+
+td
+{
+	border : 2px solid black;
+	width: 200px;
+	background-color: grey;
+}
+th 
+{
+	border : 2px solid black;
+	width: 200px;
+	background-color: #313f4f;
+}
+
+table{
+	border : 1px solid black;
+
+	border-collapse: collapse;
+}
